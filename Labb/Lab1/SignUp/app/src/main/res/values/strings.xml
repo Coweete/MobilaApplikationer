@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="Email">Email: </string>
+    <string name="pass">Password: </string>
+    <string name="Cleartxt"> </string>
+    <string name="login_Success">Registration Successful</string>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Assigment1</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string-array name="income_category">
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="exp_category">
+        <item>Food</item>
+        <item>Leisure</item>
+        <item>Travel</item>
+        <item>Accommodation</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="over_welcome">Welcome</string>
+    <string name="over_income">Show Income</string>
+    <string name="over_exp">Show Expens</string>
+    <string name="over_add">Add Transaction</string>
+    <string name="over_firstname">Firstname</string>
+    <string name="over_surname">Surname</string>
+    <string name="over_saldo">Saldo</string>
+    <string name="over_btnUpdate">Update Information</string>
+
+
+
+    <string name="add_title">Add Transaction</string>
+    <string name="add_btndate">pick date</string>
+    <string name="add_btnAdd">create</string>
+    <string name="add_category">Category:</string>
+    <string name="add_transaction">Transaction:</string>
+    
+    <string name="income">Income</string>
+    <string name="expens">Expenditure</string>
+
+    <string name="fragment_startDate">Start Date</string>
+    <string name="fragment_endDate">End Date</string>
+    <string name="fragment_sort">Sort After Date</string>
+
+    <string name="back">Back</string>
+
+    <string name="Error_signup">Error, One or more fileds are empty</string>
+    <string name="Error_Add">Error, Check all fields</string>
+
+    <string name="balance">Balance</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratory2C</string>
+
+    <!-- Input Fragment-->
+    <string name="btnClick">Click</string>
+    <string name="btnReset">Reset</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

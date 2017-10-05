@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mah.ag0071.laboratory2c.MainActivity">
+
+    <fragment
+        android:id="@+id/frViewer"
+        android:name="com.mah.ag0071.laboratory2c.ViewerFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_viewer" />
+
+    <fragment
+        android:id="@+id/frInput"
+        android:name="com.mah.ag0071.laboratory2c.InputFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_input" />
+
+</LinearLayout>

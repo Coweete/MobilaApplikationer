@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_map"
+            android:icon="@drawable/google_maps"
+            android:title="@string/drawerlayout_map"
+            />
+
+        <item
+            android:id="@+id/drawer_groups"
+            android:icon="@drawable/account_multiple"
+            android:title="@string/drawerlayout_groups"
+            />
+
+        <item
+            android:id="@+id/drawer_settings"
+            android:icon="@drawable/settings"
+            android:title="@string/drawerlayout_settings"
+            />
+
+    </group>
+
+</menu>

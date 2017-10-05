@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="human">HUMAN</string>
+    <string name="computer">COMPUTER</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="new_game">New game</string>
+    <string name="change_ui">Change UI</string>
+    <string name="new_activity">Ny Aktivitet</string>
+    <string name="app_name">Dynamic Fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

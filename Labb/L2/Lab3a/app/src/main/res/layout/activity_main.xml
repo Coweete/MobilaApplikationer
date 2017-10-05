@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.mah.ag0071.lab3a.MainActivity">
+
+    <fragment
+        android:id="@+id/frViewer"
+        android:name="com.mah.ag0071.lab3a.ViewerFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+    <fragment
+        android:id="@+id/frInput"
+        android:name="com.mah.ag0071.lab3a.InputFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+</LinearLayout>
